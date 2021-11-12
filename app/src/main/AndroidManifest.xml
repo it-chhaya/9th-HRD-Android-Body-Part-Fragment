@@ -11,7 +11,7 @@
         android:theme="@style/Theme.BodyAndroid">
         <activity
             android:name=".ui.body.BodyPartActivity"
-            android:exported="false" />
+            android:exported="false"/>
         <activity
             android:name=".ui.main.MainActivity"
             android:exported="true">
